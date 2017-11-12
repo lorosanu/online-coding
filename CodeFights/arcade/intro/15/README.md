@@ -1,17 +1,17 @@
 # Description
 
-Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+Given a rectangular matrix of characters, add a border of asterisks(*) to it.  
 
 ## Example
 
-For
+For  
 
-picture = ["abc",
-           "ded"]
-the output should be
+picture = ["abc",  
+           "ded"]  
+the output should be  
 
-`addBorder(picture) = ["*****",`
-                      "*abc*",
-                      "*ded*",
-                      "*****"]
+`addBorder(picture) = ["*****",`  
+                      "*abc*",  
+                      "*ded*",  
+                      "*****"]  
 
